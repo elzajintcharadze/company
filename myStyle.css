@@ -1,0 +1,40 @@
+div{
+	color: red;
+}
+
+#satauri{
+	color: #052f5f;
+	font-size: 60px;
+	text-align: center;
+	font-family: Impact;
+}
+#qvesatauri{
+	color: #06a77d;
+	font-size: 40px;
+	text-align: center;
+	font-family: "BPG Algeti Comp Caps 2017";
+}
+
+#saxeli{
+	color: #d5c67a;
+}
+
+.statia{
+	background-color: #C1D6DF;
+	width: 60%;
+	padding: 50px;
+}
+.articleName{
+	font-size: 30px;
+	color: #06a77d;
+	letter-spacing: 10px;
+}
+.info{
+	text-align: justify;
+	color: black;
+}
+.logo{
+	text-align: center;
+	font-size: 100px;
+	color: #f1a208;
+}
